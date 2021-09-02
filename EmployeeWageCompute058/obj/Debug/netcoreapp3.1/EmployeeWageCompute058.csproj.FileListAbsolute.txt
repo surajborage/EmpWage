@@ -1,0 +1,14 @@
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\bin\Debug\netcoreapp3.1\EmployeeWageCompute058.exe
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\bin\Debug\netcoreapp3.1\EmployeeWageCompute058.deps.json
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\bin\Debug\netcoreapp3.1\EmployeeWageCompute058.runtimeconfig.json
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\bin\Debug\netcoreapp3.1\EmployeeWageCompute058.runtimeconfig.dev.json
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\bin\Debug\netcoreapp3.1\EmployeeWageCompute058.dll
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\bin\Debug\netcoreapp3.1\EmployeeWageCompute058.pdb
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.csproj.AssemblyReference.cache
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.AssemblyInfoInputs.cache
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.AssemblyInfo.cs
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.dll
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.pdb
+C:\Users\Suraj\Desktop\New folder\EmployeeWageCompute058\EmployeeWageCompute058\obj\Debug\netcoreapp3.1\EmployeeWageCompute058.genruntimeconfig.cache
