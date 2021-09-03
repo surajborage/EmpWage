@@ -4,34 +4,38 @@ namespace EmployeeWageCompute058
 {
     class Program
     {
+       public const int IS_FULL_TIME = 1;
+        public const int IS_PART_TIME = 2;
+        public const int EMP_RATE_PER_HR = 20 ;
         static void Main(string[] args)
-        {   //UC2
-            //constants
-            int IS_FULL_TIME = 1;
-            int EMP_RATE_PER_HR = 20;
+        {   //UC 4
+            //local vairables
             int empHrs = 0;
             int empWage = 0;
 
-            // per defind random
+            // perdefined random
             Random random = new Random();
 
             //next method () 0 is initial valu ,2 number of element from 0
-            int empCheck = random.Next(0, 2);
+            int empCheck = random.Next(0, 3);
 
-            // selection staments
-            if (empCheck == IS_FULL_TIME)
+           switch (empCheck)
             {
-                Console.WriteLine("EMPLOYEE IS PRESENT");
-                empHrs = 8;
-            }
-            else
-            {
-                Console.WriteLine("EMPLOYEE IS ABSENT");
-                empHrs = 0;
+                case IS_FULL_TIME:
+                    empHrs = 8;
+                    break;
+                case IS_PART_TIME:
+                    empHrs = 4;
+                    break;
+                default:
+                    empHrs = 0;
+                    break;
+
             }
 
             empWage = EMP_RATE_PER_HR * empHrs;
-            Console.WriteLine("Daily Employee Wage is =" + empWage);
+            Console.WriteLine("Emp wage :" + empWage);
+
             Console.Read();
 
 
